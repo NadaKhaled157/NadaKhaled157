@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Nada Khaled</h1>
+<h1 align="center">Hi there 👋🏼, I'm Nada Khaled</h1>
 <h3 align="center">A passionate developer and explorer of creative tech</h3>
 
 <p align="center">
