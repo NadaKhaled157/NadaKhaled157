@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer and explorer of creative tech</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=5583AD&center=true&vCenter=true&width=435&lines=Machine+Learning+Enthusiast;Loves+Web+Development+%F0%9F%92%AC;Builder+of+smart+interactive+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=5583AD&center=true&vCenter=true&width=435&lines=Machine+Learning+Enthusiast;Loves+Web+Development+%F0%9F%92%AC;Smart+Interactive+Apps" alt="Typing SVG" />
 </p>
 
 ---
